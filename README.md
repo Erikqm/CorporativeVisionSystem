@@ -93,13 +93,13 @@ Vision Platform Server
 
 ---
 
-## 📷 Supported Image Sources
+##  Supported Image Sources
 
 The platform is flexible on how images arrive — clients integrate however fits their workstation:
 
-- 📱 **Tablets** — operators capture and send photos manually
-- 📷 **IP Cameras** — registered and streamed directly to the platform
-- 🏭 **Industrial Cameras** — integrated for high-precision
+-  **Tablets** — operators capture and send photos manually
+-  **IP Cameras** — registered and streamed directly to the platform
+-  **Industrial Cameras** — integrated for high-precision
 
 ---
 
